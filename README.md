@@ -1,6 +1,6 @@
 # pzho0019_9103_tut9
 ## Part One
-![An image of Star Wars shortcut 1](https://images.app.goo.gl/mkcU3SeaRskBm8JW6)
+![An image of Star Wars shortcut 1](https://blog.oficinadosbits.com.br/wp-content/uploads/2023/05/1.jpg)
 ![An imgae of Star Wars Shortcut 2](https://www.adnradio.cl/resizer/v2/ZBUT44PMRFADHCWT5ZRJQSAQYQ.png?auth=191832e5f357c1636f6edfb18fb310b6cbd090e56a5ca908b6fd062f822e57ed&width=650&height=488&quality=70&smart=true)
 The Inspiration point of these two image of Star Wars shortcut is the background
 of it. The tehnique it use is making a animation of incoming light ray. It give 
