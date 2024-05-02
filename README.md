@@ -1,7 +1,7 @@
-# Quiz 8
+# pzho0019_9103_tut9
 ## Part One
 ![An image of Star Wars shortcut 1](ZBUT44PMRFADHCWT5ZRJQSAQYQ.png.avif)
-![An imgae of Star Wars Shortcut 2](1.jpg)
+![An imgae of Star Wars Shortcut 2](https://blog.oficinadosbits.com.br/wp-content/uploads/2023/05/1.jpg)
 The Inspiration point of these two image of Star Wars shortcut is the background
 of it. The tehnique it use is making a animation of incoming light ray. It give 
 audience a sense of moving forward in the space. Meanwhile it is a loop, which means
